@@ -38,4 +38,4 @@ drop table table_pk_2
 alter table table_pk_2
 add primary key (sid)
 
-select * from table_pk_2 
+select * from table_pk_2   
